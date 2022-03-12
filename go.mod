@@ -1,4 +1,4 @@
-module github.com/tysonmote/gommap
+module github.com/liftbridge-io/gommap
 
 go 1.17
 
